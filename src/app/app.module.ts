@@ -6,7 +6,7 @@ import { AppComponent } from './app.component';
 import {ActorServiceService} from './actor-service.service';
 
 
-@NgModule({
+@NgModule( {
   declarations: [
     AppComponent,
   ],
